@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ライアー",
+  "base_artist": "Kucci",
+  "createdAt": "2025-12-18T02:29:33.591991Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ライアー・ルージュ",
+      "artist": "北沢志保(CV 雨宮天)",
+      "has_synced": false,
+      "path": "select/01_ライアー・ルージュ_北沢志保(CV_雨宮天).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LIAR\u001fライアー",
+      "artist": "LOVEBITES",
+      "has_synced": true,
+      "path": "select/02_LIAR_ライアー_LOVEBITES.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ライアー・ルージュ",
+      "artist": "北沢志保 (雨宮天)",
+      "has_synced": false,
+      "path": "select/03_ライアー・ルージュ_北沢志保_(雨宮天).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ライアー・ルージュ",
+      "artist": "北沢志保",
+      "has_synced": false,
+      "path": "select/04_ライアー・ルージュ_北沢志保.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ライアー",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_ライアー_Queen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライアー",
+      "artist": "Kucci",
+      "has_synced": false,
+      "path": "select/pl_01_ライアー_Kucci.txt"
+    }
+  ]
+}
